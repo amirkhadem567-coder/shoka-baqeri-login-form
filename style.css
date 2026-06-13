@@ -297,7 +297,7 @@ h1 {
 }
 /* Mobile Responsive */
 
-@media (max-width: 350px) {
+@media (max-width: 375px) {
 
     body {
 
